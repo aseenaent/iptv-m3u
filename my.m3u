@@ -27,3 +27,17 @@ http://185.180.221.193:8278/Channel5/19072120128337.ts
 http://185.180.221.193:8278/Channel8/playlist.m3u8?tid=m02000000000010572225&ct=18077&tsum=b0c55cc3c88edfa1e3389d0c3eeb5ced
 #EXTINF:-1 tvg-id="" tvg-name="CU SG" tvg-logo="https://video.toggle.sg/image/5308024/16x9/947/533/38aa7e2b749478c4bba097b540b93720/Pa/channel-u.png" group-title="Singapore",SG - Channel U
 http://50.7.161.82:8278/ChannelU/playlist.m3u8?tid=m02000000000015904186&ct=18077&tsum=2968a4c12827c1be9e74431c3dbf7b68
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="United States",US - HBO
+http://peer2.savitar.tv/HBO/myStream/chunks.m3u8?nimblesessionid=7848805&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjMwOjQyIEFNJmhhc2hfdmFsdWU9T0l5b0FDSU1CdWtISzh2S2Q5VmhGQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",MY - TV1
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="United States",US - FX
+http://live.savitar.tv/FX/myStream/chunks.m3u8?nimblesessionid=10869780&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9NTk2c0JHcysxa3lZVmF3RG0vdHhXUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="United States",US - HBO
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="United States",US - ESPN
+http://peer1.savitar.tv/ESPN/myStream/chunks.m3u8?nimblesessionid=10869802&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjM0OjI5IEFNJmhhc2hfdmFsdWU9ZFNtbTR0QVlLTGlId0hRaVhyVW5FQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="" group-title="United States",US - NatGeo
+http://live.savitar.tv/NatGEO/myStream/chunks.m3u8?nimblesessionid=10869986&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjM1OjI1IEFNJmhhc2hfdmFsdWU9WWFRTGN0VnJwZk81N1N4SnRZT0RmUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="NGW" tvg-logo="" group-title="United States",US - NatGeo Wild
+http://live.savitar.tv/NatGEOWild/myStream/chunks.m3u8?nimblesessionid=10869989&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjM1OjI2IEFNJmhhc2hfdmFsdWU9YU1Wd1VhUmg0L3BEcVBvMTFydW4vZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="AP" tvg-logo="" group-title="United States",US - Animal Planet
+http://live.savitar.tv/Animal/myStream/chunks.m3u8?nimblesessionid=10869991&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjM1OjI2IEFNJmhhc2hfdmFsdWU9YU1Wd1VhUmg0L3BEcVBvMTFydW4vZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
