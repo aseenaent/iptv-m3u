@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="" group-title="Malaysia",MY - TV1
+http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m02000000000010224415&ct=18077&tsum=f4d4d5ef4488a7827b273f9d97475539
+#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="" group-title="Malaysia",MY - TV2
+http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000015364816&ct=18077&tsum=ca0f71907c56baccadc879efd9a9fa79
 #EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia",MY - TV3
 http://livecdn.long.tv:8123/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?fbclid=IwAR0ugZuvWzAkaqmY9JTvGC8baZxMxOybYeTydxbINeAiesRDKEyV91Dkayk
 #EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia",MY - NTV7
@@ -11,6 +15,10 @@ http://livecdn.long.tv:8123/live/B1D6CEDF1EF24A28A1201C3B20F6E814/playlist.m3u8?
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",MY - Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",MY - Discovery Science
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",MY - Discovery Channel
+http://80.80.160.168/live/8/2500000/live.m3u8
 #EXTINF:-1 group-title=“Taiwan“,TW - 三立台湾
 http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
 #EXTINF:-1 group-title=“Taiwan“,TW - 民视新闻
@@ -41,12 +49,6 @@ https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/8/3/4/18343502/18343502,192x192,r:2.jpg" group-title="Taiwan",TW - 一新闻备
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="Thailand",TH - Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/e0/Channel_28_Logo.png/225px-Channel_28_Logo.png" group-title="Thailand",TH - Channel 3
