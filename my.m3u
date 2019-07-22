@@ -7,3 +7,23 @@ http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000015364816&ct=18077&tsu
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",MY - Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WLT MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="Malaysia",MY - 华丽台
+http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000015089361&ct=18077&tsum=656f1a6b30f2758de9adf02c2460845e
+#EXTINF:-1 tvg-id="" tvg-name="XH MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="Malaysia",MY - TVB 星河
+http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000013170794&ct=18077&tsum=39b32f8b21235d7c92cb937a91c239bd
+#EXTINF:-1 tvg-id="" tvg-name="Celestial MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Malaysia",MY - 天映频道
+http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000016051715&ct=18077&tsum=80e2f1d009408e0a3768e3e010aa20a2
+#EXTINF:-1 tvg-id="" tvg-name="SX MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Malaysia",MY - 双心
+http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000016701788&ct=18077&tsum=18e4eba42d3c5a847911d76d6cf5e1d0
+#EXTINF:-1 tvg-id="" tvg-name="AEC MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" group-title="Malaysia",MY - AEC
+http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015751423&ct=18077&tsum=0a1235753bfb672ce47b241f15dc4a3e
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="Malaysia",MY - 天映经典
+http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015419636&ct=18077&tsum=89c0763b0ca173060b8de9cd9b318ead
+#EXTINF:-1 tvg-id="" tvg-name="SONY MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Malaysia",MY - Sony One
+http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
+#EXTINF:-1 tvg-id="" tvg-name="C5 SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png" group-title="Singapore",SG - Channel 5
+http://185.180.221.193:8278/Channel5/19072120128337.ts
+#EXTINF:-1 tvg-id="" tvg-name="C8 SG" tvg-logo="https://video.toggle.sg/image/5166818/16x9/947/533/a6eec7dcb1648300cfbaa9a076b4fce8/fS/channel-8.png" group-title="Singapore",SG - Channel 8
+http://185.180.221.193:8278/Channel8/playlist.m3u8?tid=m02000000000010572225&ct=18077&tsum=b0c55cc3c88edfa1e3389d0c3eeb5ced
+#EXTINF:-1 tvg-id="" tvg-name="CU SG" tvg-logo="https://video.toggle.sg/image/5308024/16x9/947/533/38aa7e2b749478c4bba097b540b93720/Pa/channel-u.png" group-title="Singapore",SG - Channel U
+http://50.7.161.82:8278/ChannelU/playlist.m3u8?tid=m02000000000015904186&ct=18077&tsum=2968a4c12827c1be9e74431c3dbf7b68
