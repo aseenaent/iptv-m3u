@@ -5,6 +5,8 @@
 #http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000015364816&ct=18077&tsum=ca0f71907c56baccadc879efd9a9fa79
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="Malaysia",RTM Parlimen
+http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="Malaysia",MY - Astro Awani
 #http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",MY - Astro Hello
