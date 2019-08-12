@@ -34,12 +34,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg" group-title="",Sky Sports
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png" group-title="",ESPN
-http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="",ESPN 2
-http://185.246.209.109:8080/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/613_300.png" group-title="",Disney Junior
