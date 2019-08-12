@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ASSP1
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ASSP2
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ASSP3
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ASSP4
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1719.m3u8
