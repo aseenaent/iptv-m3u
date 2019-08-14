@@ -1,46 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",MY - TV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",MY - TV1
 #http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m02000000000010224415&ct=18077&tsum=f4d4d5ef4488a7827b273f9d97475539
-#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",MY - TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",MY - TV2
 #http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000015364816&ct=18077&tsum=ca0f71907c56baccadc879efd9a9fa79
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="Malaysia",RTM Parlimen
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="Malaysia",MY - Astro Awani
+#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="Malaysia",Astro Awani
 #http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",MY - Astro Hello
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",Astro Hello
 #http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WLT MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="Malaysia",MY - 华丽台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="",Astro Oasis
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/121_300.png" group-title="",Astro Prima
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="",Astro Ria
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="",Astro Warna
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="",Astro 华丽台 (1)
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="Malaysia",Astro 华丽台 (2)
 http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000015089361&ct=18077&tsum=656f1a6b30f2758de9adf02c2460845e
-#EXTINF:-1 tvg-id="" tvg-name="XH MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="Malaysia",MY - TVB 星河
-http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000013170794&ct=18077&tsum=39b32f8b21235d7c92cb937a91c239bd
-#EXTINF:-1 tvg-id="" tvg-name="Celestial MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Malaysia",MY - 天映频道
-http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000016051715&ct=18077&tsum=80e2f1d009408e0a3768e3e010aa20a2
-#EXTINF:-1 tvg-id="" tvg-name="SX MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Malaysia",MY - 双心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="",Astro 欢喜台
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="",Astro 双星 (1)
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Malaysia",Astro 双星 (2)
 http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000016701788&ct=18077&tsum=18e4eba42d3c5a847911d76d6cf5e1d0
-#EXTINF:-1 tvg-id="" tvg-name="AEC MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" group-title="Malaysia",MY - AEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" group-title="",Astro AEC (1)
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" group-title="Malaysia",Astro AEC (2)
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015751423&ct=18077&tsum=0a1235753bfb672ce47b241f15dc4a3e
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="Malaysia",MY - 天映经典
-http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015419636&ct=18077&tsum=89c0763b0ca173060b8de9cd9b318ead
-#EXTINF:-1 tvg-id="" tvg-name="SONY MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Malaysia",MY - Sony One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="",Astro 全佳 HD
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/325_300.png" group-title="",Astro 小太阳
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="",Astro On Demand 1
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="",Astro On Demand 2
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="",Sony One HD
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Malaysia",Sony One
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" group-title="",Oh! K HD
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/434_300.png" group-title="",Fox Action Movies
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/305_300.png" group-title="",TVB 经典台
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="Malaysia",TVB 星河
+http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000013170794&ct=18077&tsum=39b32f8b21235d7c92cb937a91c239bd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="",天映频道 (1)
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Malaysia",天映频道 (2)
+http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000016051715&ct=18077&tsum=80e2f1d009408e0a3768e3e010aa20a2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="Malaysia",天映经典
+http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015419636&ct=18077&tsum=89c0763b0ca173060b8de9cd9b318ead
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/835_300.png" group-title="",Fox Sports
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/836_300.png" group-title="",Fox Sports 2
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="",KIX HD
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1703.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/573_300.png" group-title="",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png" group-title="",Nat Geo People HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", group-title="MOVIE",HBO Chinese
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", group-title="MOVIE",HBO Chinese
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/613_300.png" group-title="",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="C5 SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png" group-title="Singapore",SG - Channel 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png" group-title="Singapore",SG - Channel 5
 #http://185.180.221.193:8278/Channel5/19072120128337.ts
-#EXTINF:-1 tvg-id="" tvg-name="C8 SG" tvg-logo="https://video.toggle.sg/image/5166818/16x9/947/533/a6eec7dcb1648300cfbaa9a076b4fce8/fS/channel-8.png" group-title="Singapore",SG - Channel 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5166818/16x9/947/533/a6eec7dcb1648300cfbaa9a076b4fce8/fS/channel-8.png" group-title="Singapore",SG - Channel 8
 #http://185.180.221.193:8278/Channel8/playlist.m3u8?tid=m02000000000010572225&ct=18077&tsum=b0c55cc3c88edfa1e3389d0c3eeb5ced
-#EXTINF:-1 tvg-id="" tvg-name="CU SG" tvg-logo="https://video.toggle.sg/image/5308024/16x9/947/533/38aa7e2b749478c4bba097b540b93720/Pa/channel-u.png" group-title="Singapore",SG - Channel U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5308024/16x9/947/533/38aa7e2b749478c4bba097b540b93720/Pa/channel-u.png" group-title="Singapore",SG - Channel U
 #http://50.7.161.82:8278/ChannelU/playlist.m3u8?tid=m02000000000015904186&ct=18077&tsum=2968a4c12827c1be9e74431c3dbf7b68
