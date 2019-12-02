@@ -26,7 +26,7 @@ http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015419636&ct=18
 #EXTINF:-1 tvg-id="" tvg-name="SONY MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Malaysia",MY - Sony One
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/573_300.png" group-title="",Nat Geo
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png" group-title="",Nat Geo People HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="",Nat Geo Wild
